@@ -1,0 +1,1 @@
+{"name":"Local: replace_bits","url":"/Users/satwik/Desktop/Problem Solving/Bit Manipulation/replace_bits.cpp","tests":[{"id":1671682922481,"input":"15 2 1 3","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/satwik/Desktop/Problem Solving/Bit Manipulation/replace_bits.cpp","group":"local","local":true}
